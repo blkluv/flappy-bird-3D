@@ -4,7 +4,7 @@
 
 **AETHERWING** is a fully 3D reimagining of Flappy Bird, built with Three.js and zero build tooling — pure ES modules, one `index.html`, no bundler, no dependencies to install. Open it and fly.
 
-**🎮 Play it live → https://flappy-bird-3d.vercel.app** *(link updated after deploy)*
+**🎮 Play it live → https://flappy-bird-3d-omega.vercel.app**
 
 ---
 

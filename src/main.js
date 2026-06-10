@@ -173,10 +173,6 @@ function onScore(passed) {
   void hud.score.offsetWidth;
   hud.score.classList.add('pop');
   sfx.score(score);
-  const pair = obstacles.lastScored;
-  if (pair) {
-    effects.ring(new THREE.Vector3(pair.group.position.x, pair.gapY + pair.bob, 0));
-  }
 }
 
 async function submitScore() {

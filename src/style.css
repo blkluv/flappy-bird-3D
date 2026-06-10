@@ -18,6 +18,8 @@ html, body {
   -webkit-user-select: none;
   user-select: none;
   touch-action: manipulation;
+  /* kill the blue flash mobile browsers paint on tap */
+  -webkit-tap-highlight-color: transparent;
 }
 
 #game {
